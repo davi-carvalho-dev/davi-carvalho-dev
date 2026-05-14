@@ -23,7 +23,7 @@ I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML
 </div>
 <div align= "center" width="300">
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,ps,figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,ps,figma"/>
 </div>
 <hr width="80%">
 

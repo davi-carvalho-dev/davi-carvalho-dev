@@ -18,7 +18,7 @@ I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML
 
 <br/>
 <div align= "center" width="300">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,expressjs,postgresql" />
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
 </div>
 <div align= "center" width="300">

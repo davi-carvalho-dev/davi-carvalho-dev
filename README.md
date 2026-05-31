@@ -3,7 +3,11 @@
 
 <h2>About me</h2>
 
-I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML and CSS**, and I'm currently deepening my knowledge of the modern **JavaScript ecosystem**, including **React, Node.js, Express.js**, and for database **PostgreSQL** — always building projects to put theory into practice.<br/>
+I'm a Full Stack Developer in training focused on building real-world web applications.
+
+I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in Python, Flask and PostgreSQL while developing practical projects that combine front-end, back-end and database integration.
+
+I'm passionate about technology, problem solving and continuous learning, always turning new concepts into hands-on projects..<br/>
 
 ---
 
@@ -18,7 +22,7 @@ I'm Davi, 23 years old, and a web developer. I have a solid foundation in **HTML
 
 <br/>
 <div align= "center" width="300">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,expressjs,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,flask,postgresql" />
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
 </div>
 <div align= "center" width="300">

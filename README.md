@@ -5,7 +5,7 @@
 
 I'm a Full Stack Developer in training focused on building real-world web applications.
 
-I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in Python, Flask and PostgreSQL while developing practical projects that combine front-end, back-end and database integration.
+I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in Python, Flask, C, C++, Java while developing practical projects that combine front-end, back-end and database integration.
 
 I'm passionate about technology, problem solving and continuous learning, always turning new concepts into hands-on projects..<br/>
 

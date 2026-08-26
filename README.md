@@ -5,7 +5,7 @@
 
 I'm a Full Stack Developer in training focused on building real-world web applications.
 
-I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in Python, Flask, C, C++, Java while developing practical projects that combine front-end, back-end and database integration.
+I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in Python, C, Java while developing practical projects that combine front-end, back-end and database integration.
 
 I'm passionate about technology, problem solving and continuous learning, always turning new concepts into hands-on projects..<br/>
 
@@ -16,13 +16,13 @@ I'm passionate about technology, problem solving and continuous learning, always
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=1"/>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=davi-carvalho-dev&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=1"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=0.5"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=davi-carvalho-dev&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=0.5"/>
 </div>
 
 <br/>
 <div align= "center" width="300">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,flask,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,flask,c,java" />
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
 </div>
 <div align= "center" width="300">

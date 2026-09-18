@@ -22,12 +22,12 @@ I'm passionate about technology, problem solving and continuous learning, always
 
 <br/>
 <div align= "center" width="300">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,flask,c,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,flask,c,java,react,sql" />
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
 </div>
 <div align= "center" width="300">
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,ps,figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,itelij,git,ps,figma"/>
 </div>
 <hr width="80%">
 

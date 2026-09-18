@@ -27,7 +27,7 @@ I'm passionate about technology, problem solving and continuous learning, always
 </div>
 <div align= "center" width="300">
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,itelij,git,ps,figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,ps,figma"/>
 </div>
 <hr width="80%">
 

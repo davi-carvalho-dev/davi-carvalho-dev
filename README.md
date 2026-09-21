@@ -11,7 +11,9 @@ I'm passionate about technology, problem solving and continuous learning, always
 
 ---
 
-[![VIO](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/VIO.png)](https://github.com/davi-carvalho-dev/VIO)
+[![Ecommerce-Data](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/Ecommerce-Data.jpg)](https://github.com/davi-carvalho-dev/Ecommerce-Data)
+
+[![c-light-cycle](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/C-Light-Project.png)](https://github.com/davi-carvalho-dev/c-light-cycle)
 
 ---
 

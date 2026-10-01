@@ -18,8 +18,8 @@ I'm passionate about technology, problem solving and continuous learning, always
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=0.5"/>
-  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=davi-carvalho-dev&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=0.5"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark&cache_seconds=0.1"/>
+  <img height="180em" src="https://github-readme-stats-pi-ten-92.vercel.app/api/top-langs/?username=davi-carvalho-dev&langs_count=16&layout=compact&border_radius=10&theme=github_dark&cache_seconds=0.1"/>
 </div>
 
 <br/>

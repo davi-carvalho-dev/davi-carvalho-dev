@@ -13,8 +13,6 @@ I'm passionate about technology, problem solving and continuous learning, always
 
 [![Ecommerce-Data](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/Ecommerce-Data.jpg)](https://github.com/davi-carvalho-dev/Ecommerce-Data)
 
-[![c-light-cycle](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/C-Light-Project.png)](https://github.com/davi-carvalho-dev/c-light-cycle)
-
 ---
 
 <div>
@@ -25,7 +23,7 @@ I'm passionate about technology, problem solving and continuous learning, always
 <br/>
 <div align= "center" width="300">
   <img src="https://skillicons.dev/icons?i=js,react,ts,python,flask,c,java,mysql,docker" />
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhoN3FkbDR1ZzFxZjUwbWltbjlnY3hwY2JvcTM4a2M5Z2FieDNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="130"/>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUyenYxejExang4eTZsMDNoZHl4eGpkd3UxcmZ1ZW52bGR2N2lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="130"/>
 </div>
 <div align= "center" width="300">
   <br/>

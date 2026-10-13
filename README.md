@@ -47,7 +47,7 @@ I'm passionate about technology, problem solving and continuous learning, always
   </a>
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUyenYxejExang4eTZsMDNoZHl4eGpkd3UxcmZ1ZW52bGR2N2lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="150" alt="Animated decoration" />/
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUyenYxejExang4eTZsMDNoZHl4eGpkd3UxcmZ1ZW52bGR2N2lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="150" alt="Animated decoration" />
 </p>
 
 <p align="center">

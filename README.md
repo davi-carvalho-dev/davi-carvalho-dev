@@ -4,17 +4,12 @@
 
 I'm a Full Stack Developer in training focused on building real-world web applications.
 
-I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in React/Typescript, Python, C, Java, Dokcer,SQL while developing practical projects that combine front-end, back-end and database integration.
+I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in React/Typescript, Node.js, NestJS, Dokcer, Databases while developing practical projects that combine front-end, back-end and database integration.
 
 I'm passionate about technology, problem solving and continuous learning, always turning new concepts into hands-on projects..<br/>
 
 ---
 
-[![Ecommerce-Data](https://raw.githubusercontent.com/davi-carvalho-dev/davi-carvalho-dev/main/Ecommerce-Data.jpg)](https://github.com/davi-carvalho-dev/Ecommerce-Data)
-
-
-
----
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-pi-ten-92.vercel.app/api?username=davi-carvalho-dev&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&theme=github_dark" alt="GitHub Stats" />
@@ -26,7 +21,7 @@ I'm passionate about technology, problem solving and continuous learning, always
 <h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,ts,python,flask,c,java,mysql,docker" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=js,tailwind,react,ts,nodejs,nestjs,postgresql,docker" alt="Development technologies" />
 </p>
 
 <p align="center">

@@ -2,9 +2,9 @@
 
 <h2>About me</h2>
 
-I'm a Full Stack Developer in training focused on building real-world web applications.
+I am a back-end developer in training, with a focus on data and an aspiration to work in IoT development.
 
-I have a solid foundation in HTML, CSS and JavaScript, and I'm currently expanding my skills in React/Typescript, Node.js, NestJS, Dokcer, Databases while developing practical projects that combine front-end, back-end and database integration.
+I have a solid foundation in HTML, CSS and JavaScript,Python and I'm currently expanding my skills in React/Typescript, Django, C, C++, Dokcer, Databases while developing practical projects that combine full-stack integration.
 
 I'm passionate about technology, problem solving and continuous learning, always turning new concepts into hands-on projects..<br/>
 
@@ -21,7 +21,7 @@ I'm passionate about technology, problem solving and continuous learning, always
 <h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,react,ts,nodejs,nestjs,postgresql,docker" alt="Development technologies" />
+  <img src="https://skillicons.dev/icons?i=js,react,ts,python,django,c,cpp,postgresql,docker" alt="Development technologies" />
 </p>
 
 <p align="center">
